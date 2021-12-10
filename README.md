@@ -18,3 +18,9 @@ https://app.powerbi.com/view?r=eyJrIjoiNDkxM2UxYjEtMTczZi00NDg2LTlkYWEtMmE3ZDVkM
 
 ![Screenshot (989)](https://user-images.githubusercontent.com/40290007/145528154-a01b8f16-7fb5-4b8d-b5f4-76bf9b836d31.png)
 
+## Sales Analysis
+https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwMGZmMzU2IiwidCI6IjFhNDc1OGYwLTk2ZTctNDdjOC1iZThlLWY1YjA2YmRiOGU0NSJ9&pageName=ReportSection
+
+![Screenshot (993)](https://user-images.githubusercontent.com/40290007/145529932-f1eeb0e6-2c9b-418b-99fd-7cf9b72520f5.png)
+
+![Screenshot (994)](https://user-images.githubusercontent.com/40290007/145529938-c4fd706e-2751-40ad-82db-a46311fa628b.png)
