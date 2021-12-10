@@ -4,8 +4,8 @@
 
 https://app.powerbi.com/view?r=eyJrIjoiNDkxM2UxYjEtMTczZi00NDg2LTlkYWEtMmE3ZDVkMjJmM2JhIiwidCI6IjFhNDc1OGYwLTk2ZTctNDdjOC1iZThlLWY1YjA2YmRiOGU0NSJ9&pageName=ReportSection9e18d82523911fba6e35
 
-Analyzing New Customers Vs Old Customers  Vs Lost customers (based on time period selected)
-Monthly Sales by all customers vs New Customers
+###### Analyzing New Customers Vs Old Customers  Vs Lost customers (based on time period selected)
+###### Monthly Sales by all customers vs New Customers
 Top 10 Products Purchased by First Time Visited Customers
 Cohort Analysis
 Customer Segmentation by Total Revenue
