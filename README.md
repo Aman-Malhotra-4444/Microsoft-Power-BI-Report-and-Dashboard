@@ -29,3 +29,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 
 ![Screenshot (996)](https://user-images.githubusercontent.com/40290007/145534918-407adf99-261f-424b-8084-616df1adfe46.png)
 
+## Product Segmentaion as Per Sales Ranking
+
+![Screenshot (997)](https://user-images.githubusercontent.com/40290007/145539705-eb1e7ae4-f016-4caa-89ed-87e7761b29fb.png)
