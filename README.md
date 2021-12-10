@@ -24,3 +24,8 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 ![Screenshot (993)](https://user-images.githubusercontent.com/40290007/145529932-f1eeb0e6-2c9b-418b-99fd-7cf9b72520f5.png)
 
 ![Screenshot (994)](https://user-images.githubusercontent.com/40290007/145529938-c4fd706e-2751-40ad-82db-a46311fa628b.png)
+
+## Sales Segmentation as per Margin
+
+![Screenshot (996)](https://user-images.githubusercontent.com/40290007/145534918-407adf99-261f-424b-8084-616df1adfe46.png)
+
