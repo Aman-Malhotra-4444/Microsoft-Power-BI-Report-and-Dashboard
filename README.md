@@ -32,3 +32,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 ## Product Segmentaion as Per Sales Ranking
 
 ![Screenshot (997)](https://user-images.githubusercontent.com/40290007/145539705-eb1e7ae4-f016-4caa-89ed-87e7761b29fb.png)
+
+## Commulative Sales(Yearly) / Commulative Sales(from beginning) / Average Moving Sales/ Previous Month Sales / Sales Same Period Last Year
+
+![Screenshot (998)](https://user-images.githubusercontent.com/40290007/145669038-607a1d5e-c5e9-4f68-aa61-ec76ef83c672.png)
