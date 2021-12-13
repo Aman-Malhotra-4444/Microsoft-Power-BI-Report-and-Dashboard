@@ -41,7 +41,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 
 ![Screenshot (1002)](https://user-images.githubusercontent.com/40290007/145796657-5f938943-a937-4442-b18a-a64fad841313.png)
 
-## Product/Customer Overall Ranking (Sorted by Overall Ranking)
+## Product/Customer Overall Ranking /Sales Ranking/ Profit Ranking /Profit Margin Ranking (Sorted by Overall Ranking)
 
 https://app.powerbi.com/view?r=eyJrIjoiZTZiNTFiM2EtYmZmYi00N2I0LWIyNzktNjI3NGZjZWFjMGY3IiwidCI6IjFhNDc1OGYwLTk2ZTctNDdjOC1iZThlLWY1YjA2YmRiOGU0NSJ9
 
