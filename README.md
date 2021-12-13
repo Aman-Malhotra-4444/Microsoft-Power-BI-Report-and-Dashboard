@@ -40,3 +40,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 ## Top 50 Customers and Orders by Top 50 Customers
 
 ![Screenshot (1002)](https://user-images.githubusercontent.com/40290007/145796657-5f938943-a937-4442-b18a-a64fad841313.png)
+
+## Product/Customer Overall Ranking
+
+![Screenshot (1003)](https://user-images.githubusercontent.com/40290007/145812078-9d5bd3f2-08d9-4a67-ac1b-b103d1e15c69.png)
