@@ -36,3 +36,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzYmJhM2QtYjhjYi00MGExLWEyMWMtODRmNjcwM
 ## Commulative Sales(Yearly) / Commulative Sales(from beginning) / Average Moving Sales/ Previous Month Sales / Sales Same Period Last Year
 
 ![Screenshot (998)](https://user-images.githubusercontent.com/40290007/145669038-607a1d5e-c5e9-4f68-aa61-ec76ef83c672.png)
+
+## Top 50 Customers and Orders by Top 50 Customers
+
+![Screenshot (1002)](https://user-images.githubusercontent.com/40290007/145796657-5f938943-a937-4442-b18a-a64fad841313.png)
